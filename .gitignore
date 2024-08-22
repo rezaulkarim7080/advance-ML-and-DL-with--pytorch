@@ -1,0 +1,14 @@
+
+# Ignore the entire 'data' directory
+data/
+
+# Ignore the entire 'models' directory
+models/
+# Ignore the entire 'models' directory
+2-num-models/
+# Ignore the entire 'models' directory
+5.data/
+data/
+
+# Ignore the '__pycache__' directories
+__pycache__/
